@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Tongue Slap IPA</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Imperial IPA</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.07</OG_MIN>
+      <OG_MAX>1.09</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.02</FG_MAX>
+      <IBU_MIN>60.0</IBU_MIN>
+      <IBU_MAX>120.0</IBU_MAX>
+      <COLOR_MIN>8.0</COLOR_MIN>
+      <COLOR_MAX>15.0</COLOR_MAX>
+      <ABV_MIN>7.5</ABV_MIN>
+      <ABV_MAX>10.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>NB Super Structure LME for IPA</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Liquid Extract</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>2.7215542200000002</AMOUNT>
+        <DISPLAY_AMOUNT>6.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>4</COLOR>
+        <DISPLAY_COLOR>4 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Pilsen Light DME</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Dry Extract</TYPE>
+        <YIELD>95.01187648456056</YIELD>
+        <AMOUNT>1.1339809250000001</AMOUNT>
+        <DISPLAY_AMOUNT>2.5 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.044</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>6-Row (US)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.90718474</AMOUNT>
+        <DISPLAY_AMOUNT>2.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Caramel/Crystal 40L (US)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.45359237</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>40</COLOR>
+        <DISPLAY_COLOR>40 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Galena (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>A cultivar developed in 1968 from Brewer's Gold by open pollination in Idaho. An open pollination means that the male hop is unknown. The alpha acid content is relatively high—11.5 to 13.5%—but its co-humulone content and its beta acid range are also high.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Mount Rainier (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.55</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.056699</AMOUNT>
+        <DISPLAY_AMOUNT>2.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES>Originally cultivated in Oregon. Mount Rainier has a complex parentage, including Hallertau, Galena, Fuggles and other hops, and exhibits some noble hop characteristics, but is higher in alpha acid. The aroma is reminiscent of licorice with a hint of citrus.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Chinook (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>This green bine cultivar (W-421-38) was released in May 1985 in Washington State and Idaho from a cross between a Petham Golding and a USDA-selected male (63012M). Slightly spicy and very piney. Its alpha acid content ranges from 12 to 14%. Substitutes for bittering: Eroica, Galena, Nugget. Substitutes for aroma and flavor: Southern Cross, Sticklebract.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Cluster (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>7.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES>Originated from mass selection of the Cluster hop, which is an old American cultivar. It is suggested that they arose from hybridization of varieties, imported by Dutch and English settlers and indigenous male hops. There is an early ripening and a late ripening Cluster cultivar. Also known as Golden Cluster. They can give a black currant aroma/flavor. Substitutes: Brewer's Gold.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Willamette (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.75</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>1</TIME>
+        <DISPLAY_TIME>1.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Willamette (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.75</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Leaf</FORM>
+        <TIME>20160</TIME>
+        <DISPLAY_TIME>14 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>American Ale Yeast Blend</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>76.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Yeast Nutrient (Wyeast)</NAME>
+        <USE>Mash</USE>
+        <TIME>10.0</TIME>
+        <AMOUNT>2.5</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>A blend of vitamins, minerals, amino acids, nitrogen compounds, zinc, and other elements benefical for fermentation. Use 1/2 tsp. per five gallons, last 15 min of boil.</NOTES>
+        <DISPLAY_AMOUNT>2.5 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>10.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Whirlfloc Tablet</NAME>
+        <USE>Mash</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>A blend of Irish Moss and purified Kappa carrageenan that encourages the precipitation of haze causing materials such as proteins and Beta glucans. Prepared in a quick dissolving, highly soluble tablet form.</NOTES>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>Partial Mash</TYPE>
+    <BREWER>RJ</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>22.71247068</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>70.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

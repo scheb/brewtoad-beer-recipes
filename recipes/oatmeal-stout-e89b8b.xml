@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Oatmeal Stout</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Oatmeal Stout</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>13</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.048</OG_MIN>
+      <OG_MAX>1.065</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.018</FG_MAX>
+      <IBU_MIN>25.0</IBU_MIN>
+      <IBU_MAX>40.0</IBU_MAX>
+      <COLOR_MIN>22.0</COLOR_MIN>
+      <COLOR_MAX>40.0</COLOR_MAX>
+      <ABV_MIN>4.2</ABV_MIN>
+      <ABV_MAX>5.9</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale Ale (DE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>84.21507233858777</YIELD>
+        <AMOUNT>99.9989738902</AMOUNT>
+        <DISPLAY_AMOUNT>220.46 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.039</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>CaraMunich II (DE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>49.9994869451</AMOUNT>
+        <DISPLAY_AMOUNT>110.23 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>46</COLOR>
+        <DISPLAY_COLOR>46 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Munich Light (CA)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>49.9994869451</AMOUNT>
+        <DISPLAY_AMOUNT>110.23 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>10</COLOR>
+        <DISPLAY_COLOR>10 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Cara 45L (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>25.0020114344</AMOUNT>
+        <DISPLAY_AMOUNT>55.12 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>42</COLOR>
+        <DISPLAY_COLOR>42 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Flaked Oats</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>19.9988875933</AMOUNT>
+        <DISPLAY_AMOUNT>44.09 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Chocolate (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Roasted Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>15.000299675900001</AMOUNT>
+        <DISPLAY_AMOUNT>33.07 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>425</COLOR>
+        <DISPLAY_COLOR>425 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Carafa I (DE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>69.09954653422587</YIELD>
+        <AMOUNT>10.0017117585</AMOUNT>
+        <DISPLAY_AMOUNT>22.05 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.032</POTENTIAL>
+        <COLOR>340</COLOR>
+        <DISPLAY_COLOR>340 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Brown Malt (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>69.09954653422587</YIELD>
+        <AMOUNT>10.0017117585</AMOUNT>
+        <DISPLAY_AMOUNT>22.05 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.032</POTENTIAL>
+        <COLOR>65</COLOR>
+        <DISPLAY_COLOR>65 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Bravo (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>14.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.5953394999999999</AMOUNT>
+        <DISPLAY_AMOUNT>21.0 oz</DISPLAY_AMOUNT>
+        <USE>First Wort</USE>
+        <FORM>Pellet</FORM>
+        <TIME>120</TIME>
+        <DISPLAY_TIME>120.0 min</DISPLAY_TIME>
+        <NOTES>A second generation super high alpha variety that was developed by the Hopsteiner Breeding Program and released in 2006. It has good resistance to powdery mildew. Bravo is an excellent bittering hop that provides pleasant fruity and floral aroma characteristics.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Fuggle (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>4.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.70097</AMOUNT>
+        <DISPLAY_AMOUNT>60.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>East Kent Golding (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>5.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.907184</AMOUNT>
+        <DISPLAY_AMOUNT>32.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>1</TIME>
+        <DISPLAY_TIME>1.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>American Ale Yeast Blend</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>76.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Forest Brewery</BREWER>
+    <BATCH_SIZE>851.7176505</BATCH_SIZE>
+    <BOIL_SIZE>877.2540383678801</BOIL_SIZE>
+    <BOIL_TIME>90</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>
